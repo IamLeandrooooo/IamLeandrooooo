@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Leandro and welcome to my github!
+
+![Alt Text](https://giphy.com/gifs/dT7uXqMj1GKRHhIYkX)
 
 <!--
 **IamLeandrooooo/IamLeandrooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
