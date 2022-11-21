@@ -1,4 +1,4 @@
-### Hi there 👋, I am Leandro and welcome to my github!
+### Hi there 👋, I am [Leandro](https://www.linkedin.com/in/leandrobatista1998/) and welcome to my github!
 
 ![Welcome](https://media.giphy.com/media/dT7uXqMj1GKRHhIYkX/giphy.gif)
 
