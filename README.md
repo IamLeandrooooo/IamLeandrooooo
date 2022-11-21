@@ -4,7 +4,8 @@
 
 <h3 align="center">Penetration Tester | Software Developer</h3>
 
-- 🔭 I’m currently working as a Penetration Tester.
+- 🔭 I have over 5 years of experience working in Software Development. Currently, I work as a Penetration Tester.
+
 
 ## You can find my Blog posts at [Medium](https://itsleandro.medium.com/)
 # To help your search out, here are a few interesting ones!
