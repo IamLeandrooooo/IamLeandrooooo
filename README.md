@@ -8,7 +8,7 @@
 
 ## You can find my Blog posts at [Medium](https://itsleandro.medium.com/)
 # To help your search out, here are interesting ones!
-|🟦|Article📝
+||Article📝
 |-|-|
 |📖|[Proving Grounds Play —Dawn 2 Walkthrough](https://itsleandro.medium.com/proving-grounds-play-dawn-2-walkthrough-e246c70fe876)|
 |📖|[Hack The Box — Ready Walkthrough — GitLab and Docker exploiting](https://medium.com/devroot/hack-the-box-ready-walkthrough-gitlab-and-docker-exploiting-997db465d3f7)|
