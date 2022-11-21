@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a Penetration Tester.
 
 ## You can find my Blog posts at [Medium](https://itsleandro.medium.com/)
-# To help your search out, here are interesting ones!
+# To help your search out, here are a few interesting ones!
 ||Article📝
 |-|-|
 |📖|[Proving Grounds Play —Dawn 2 Walkthrough](https://itsleandro.medium.com/proving-grounds-play-dawn-2-walkthrough-e246c70fe876)|
