@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Leandro and welcome to my github!
 
-![Rubic's cube, remote](https://media.giphy.com/media/V25gdutt6iuWc/giphy.gif)
+![Welcome](https://media.giphy.com/media/dT7uXqMj1GKRHhIYkX/giphy.gif)
 
 <!--
 **IamLeandrooooo/IamLeandrooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
