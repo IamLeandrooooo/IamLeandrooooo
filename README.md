@@ -7,7 +7,7 @@
 - 🔭 I have over 5 years of experience working in Software Development. Currently, I work as a Penetration Tester.
 
 
-## You can find my Blog posts at <a href="https://itsleandro.medium.com/" target="_blank">Medium!</a>
+## You can find my Blog posts at [Medium!](https://itsleandro.medium.com/){:target="_blank"}
 # To help your search out, here are a few interesting ones!
 ||Article📝
 |-|-|
