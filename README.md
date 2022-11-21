@@ -2,7 +2,7 @@
 
 ![Welcome](https://media.giphy.com/media/dT7uXqMj1GKRHhIYkX/giphy.gif)
 
-<h3 align="center">Penetration Tester | Software Developer</h3>
+<h3 align="center">Penetration Tester | Software Engineer</h3>
 
 - 🔭 I have over 5 years of experience working in Software Development. Currently, I work as a Penetration Tester.
 
