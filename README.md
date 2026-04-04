@@ -24,5 +24,3 @@ I hold the OSCE3 designation and a wide array of offensive certifications:
 * **Hack The Box:** https://app.hackthebox.com/profile/544655
 * **Medium:** https://itsleandro.medium.com/
 
----
-
