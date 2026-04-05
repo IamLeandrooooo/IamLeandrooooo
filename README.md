@@ -1,4 +1,4 @@
-## Hi there, I'm Leandro! 👋
+## Hi there, I'm Leandro(lee-AHN-droo)! 👋
 
 I am an Offensive Security Specialist and Red Teamer with a strong foundation in software engineering. My work focuses on Red Teaming, Penetration Testing, Reverse Engineering, and much more! I transitioned from building secured and complex systems to breaking them.
 
