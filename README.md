@@ -10,7 +10,7 @@ I actively look for and disclose vulnerabilities to help secure the ecosystem.
 
 ### 🎓 Certifications & Training
 I hold the OSCE3 designation and a wide array of offensive certifications:
-* **Offensive Security:** OSWE, OSED, OSEP, OSCP, OSWP
+* **Offensive Security:** OSAI, OSWE, OSED, OSEP, OSCP, OSWP
 * **Red Teaming:** CRTO, CRTP, CARTP
 * **Incident Handling & Mobile:** GCIH, eMAPT
 * **Specialized Training:** Corelan Heap Masterclass, Maldev Academy
